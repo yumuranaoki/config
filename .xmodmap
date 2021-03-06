@@ -1,0 +1,9 @@
+clear Mod4
+clear control
+
+keycode  37 = Hyper_L NoSymbol NoSymbol
+keycode  97 = underscore underscore backslash underscore
+keycode 133 = Control_L NoSymbol NoSymbol
+keycode 134 = Control_R NoSymbol NoSymbol
+
+add   control = Control_L Control_R
