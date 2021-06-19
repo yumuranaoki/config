@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "cancel",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 2,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>"
+        ],
+        "hotKey": "c"
+    },
+    "filter": {
+        "regex": "gnome-terminal-server.Gnome-terminal|code.Code",
+        "isRecursive": false
+    }
+}
